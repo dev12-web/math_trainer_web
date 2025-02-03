@@ -56,10 +56,10 @@ dev_dependencies:
 flutter:
 
   assets:
-    - assets/background.jpg
-    - assets/hint.jpg
-    - assets/test.jpg
-    - assets/theory.jpg
+    - assets/assets/background.jpg
+    - assets/assets/hint.jpg
+    - assets/assets/test.jpg
+    - assets/assets/theory.jpg
     
 
 
